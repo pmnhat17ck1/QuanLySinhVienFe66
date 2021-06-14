@@ -1,7 +1,8 @@
 // let hoTen = 'Khải';
 
 const store = () => {
-    return localStorage.getItem('arrSinhVien');
+    console.log('abc');
+    return localStorage.getItem('store');
 }
 
 function B (){
