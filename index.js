@@ -7,6 +7,7 @@ const store = () => {
 
 function B (){
     console.log('b edit index');
+    console.log('a check merge');
 }
 
 
