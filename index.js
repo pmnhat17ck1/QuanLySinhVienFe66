@@ -5,7 +5,12 @@ const store = () => {
 }
 
 const store = () => {
-    return localStorage.getItem('arrSinhVien');
+    console.log('abc');
+    return localStorage.getItem('store');
+}
+
+function B (){
+    console.log('b edit index');
 }
 
 
